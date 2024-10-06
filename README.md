@@ -1,6 +1,7 @@
 - "first we create our folder for out project and name it as test1"
 
-![image](https://github.com/user-attachments/assets/571b4bda-0b3e-4edc-8d4e-c4c42375473d)
+![image](https://github.com/user-attachments/assets/f0a26997-0a6c-49cc-ae54-9264c2e64c84)
+
 
 
 - "After that, we will create a Git repository to let Git track and save the changes of the source code in test1. Once we create the folder, we will go into the test1 folder and run git init."
