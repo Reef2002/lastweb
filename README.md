@@ -40,10 +40,12 @@
 
 
 "After that, try running git status. You will see:"
+
 **
 ![image](https://github.com/user-attachments/assets/3e0f7532-556a-440c-8b32-430a5a48bf84)
 
 **
+
 "git status tells us that our index.html file is ready to be committed. The note in parentheses also guides us on how to remove the index.html file from staging back to unstage."
 
 "Next, we will commit the code. The code that will be committed is the index.html file already in staging. Use the following command:
